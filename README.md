@@ -37,7 +37,3 @@ Hello there, I'm Kalila Atha Achmad, a dedicated student at Amikom University. I
 <a href="http://www.github.com/Roxxy17"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Roxxy17&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Roxxy17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxxy17&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
