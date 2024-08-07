@@ -5,7 +5,6 @@
 * 🚀  I'm currently working on [I'm Currently Working in Amikom University As Lab Assistant](http://www.linkedin.com/company/6598996/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVJjku2jJS6if5VVbYs0PFA%3D%3D)<br>
 * 🧠  I'm learning Dicoding Academy, Youtube, Learning Website, And in Campus. (Learning Back End Languange)<br>
 * 🤝  I'm open to collaborating on Any Project Like Website Back-end, And full-stack Application Mobile and Desktop ( Currently Study Back-End and Cyber Security)<br>
-* ⚡  I'm Secretly a Batman<br>
 * 🌱  I’m currently learning Front End Web Development and Back-End Web Development
 
 
