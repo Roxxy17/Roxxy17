@@ -30,19 +30,25 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Roxxy17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Roxxy17&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Roxxy17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Roxxy17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180em" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Roxxy17&theme=dark&hide_border=false" height="180em" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Roxxy17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165em" alt="Top Languages" />
+</p>
+
+### 🏆 Achievements & Metrics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Roxxy17&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Roxxy17&icon=4&color=10" alt="Visitor Count" />
-  </a>
-</p>
+[![](https://komarev.com/ghpvc/?username=Roxxy17&icon=0&color=0)](https://visitcount.itsvg.in)
